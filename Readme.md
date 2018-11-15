@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
+* [GridSeparateFilterList.sln](./CS/GridSeparateFilterList.sln)
+<!-- default file list end -->
 # How to filter grid columns using separate CheckedListBoxControls
 
 
